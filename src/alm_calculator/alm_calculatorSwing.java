@@ -54,7 +54,7 @@ public class alm_calculatorSwing {
                             result = firstNumber * secondNumber;
                             break;
                         case "/":
-                            result = firstNumber / secondNumber
+                            result = firstNumber / secondNumber;
                             break;
                     }
                     textField.setText(String.valueOf(result));
@@ -78,6 +78,3 @@ public class alm_calculatorSwing {
         
     }
 }
-// UI 구성해야해
-//휴
-//jenkins test
